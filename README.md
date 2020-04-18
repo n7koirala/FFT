@@ -2,7 +2,7 @@
 This repo contains the implementations of serial and parallel version (using OpenMP) of Fast Fourier Transform in C.
 
 ## Serial
-For the serial version, the program could be run using the commands in the BASH shell:
+For the serial version, the program could be run using these commands in the BASH shell:
 
 $ gcc -o serialfft FFT_SERIAL.c -m
 
