@@ -4,7 +4,7 @@ This repo contains the implementations of serial and parallel version (using Ope
 ## Serial
 For the serial version, the program could be run using these commands in the BASH shell:
 
-$ gcc -o serialfft FFT_SERIAL.c -m
+$ gcc -o serialfft FFT_SERIAL.c -lm
 
 $ ./serialfft
 
